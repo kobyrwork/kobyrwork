@@ -17,7 +17,7 @@
 
 💬 **Ask me about:** Anything related to Node.js, React, and front-end development. I'm always up for a coding discussion!
 
-📫 **How to reach me:** Feel free to [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
+📫 **How to reach me:** Feel free to [kobyrwork@gmail.com](mailto:kobyrwork@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kobyrwork/).
 
 😄 **Pronouns:** He/Him
 
@@ -34,12 +34,9 @@
 
 ### Recent Projects:
 
-1. 🚀 [Project Name 1](https://github.com/yourusername/project-name-1): Brief description of the project's purpose and key features.
-2. ⭐ [Project Name 2](https://github.com/yourusername/project-name-2): A side project I've been working on during my free time.
+1. 🚀 [AVO](https://github.com/kobyrwork/avo): NestJS microservice project
+2. ⭐ [pne](https://github.com/kobyrwork/PNE): A side project I've been working on during my free time.
 
-### Open Source Contributions:
-
-- 🌟 [Repository Name](https://github.com/organization/repo-name): Description of your contributions and impact on the project.
 
 ### Let's Connect:
 
