@@ -11,12 +11,6 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kobyrwork&layout=compact&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="kobyrwork" /></a>
-</p>
-
-<br>
-
 🔭 **Currently working on:** Building interactive and user-friendly web applications using React.
 
 🌱 **Currently learning:** Exploring advanced React patterns and Node.js best practices.
