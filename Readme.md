@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I'm koby 
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I'm Koby 
 </h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kobyrwork.kobyrwork)
@@ -16,26 +16,46 @@
 </p>
 
 <br>
-  
-- 🌱 I’m currently **freelancing**
 
-- 👨‍💻 All of my projects are available [here](https://www.kobyrwork.com/work/projects)
+🔭 **Currently working on:** Building interactive and user-friendly web applications using React.
 
-- 💬 Ask me about **Web Development**
+🌱 **Currently learning:** Exploring advanced React patterns and Node.js best practices.
 
-- 📫 How to reach me **koby.kaganovitch@gmail.com**
+💬 **Ask me about:** Anything related to Node.js, React, and front-end development. I'm always up for a coding discussion!
 
-### 🤝 Connect with me:
+📫 **How to reach me:** Feel free to [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://www.kobyrwork.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kobyrwork)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kobyrwork)
+😄 **Pronouns:** He/Him
+
+⚡ **Fun fact:** I love experimenting with new technologies and also enjoy a good cup of coffee while coding!
+
+### Tech Stack:
+
+- Frontend: React, Redux
+- Backend: Node.js, Express
+- Database: MongoDB, MySQL
+- UI Design: CSS, Sass
+- Version Control: Git
+- Deployment: Heroku, Netlify
+
+### Recent Projects:
+
+1. 🚀 [Project Name 1](https://github.com/yourusername/project-name-1): Brief description of the project's purpose and key features.
+2. ⭐ [Project Name 2](https://github.com/yourusername/project-name-2): A side project I've been working on during my free time.
+
+### Open Source Contributions:
+
+- 🌟 [Repository Name](https://github.com/organization/repo-name): Description of your contributions and impact on the project.
+
+### Let's Connect:
+
+📢 Feel free to follow me for updates on my latest projects and coding adventures! Let's connect and learn from each other. 🤝
+
 
 
 ### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=kobyrwork&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="koby's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kobyrwork&theme=tokyonight&hide_border=true" alt="koby's github streak" width="48%" >
 
 ---
 
@@ -96,12 +116,4 @@
 
 [![ubuntu](https://img.shields.io/badge/ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.kobyrwork.com)
 [![mac](https://img.shields.io/badge/mac-0078D6?style=for-the-badge&logo=mac&logoColor=white)](https://www.kobyrwork.com)
-
----
-
-### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPotnuru&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
-
----
-
 
