@@ -17,8 +17,6 @@
 
 💬 **Ask me about:** Anything related to Node.js, React, and front-end development. I'm always up for a coding discussion!
 
-📫 **How to reach me:** Feel free to [kobyrwork@gmail.com](mailto:kobyrwork@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kobyrwork/).
-
 😄 **Pronouns:** He/Him
 
 ⚡ **Fun fact:** I love experimenting with new technologies and also enjoy a good cup of coffee while coding!
